@@ -42,6 +42,7 @@
 
     ```
     npm run start
+    
     ```
 
 5. Your site will be available at *localhost:[PORT]* where `PORT` is whatever value is set in your `.env` file.
